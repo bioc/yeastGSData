@@ -1,0 +1,10 @@
+Package: yeastExpData
+Title:  Yeast Gold Standard Data
+Version: 0.1.0
+Author: R. Gentleman
+Description: A collection of so-called gold (and other) standard data sets
+biocViews: ExperimentData
+Maintainer: R. Gentleman <rgentlem@fhcrc.org>
+License: Artistic
+Depends: graph (>= 1.9.26)
+Suggests: Biobase, GO, RBGL, YEAST
