@@ -21,7 +21,7 @@ The data are stored as a matrix, with columns
 }
 \details{
 It is unlikely that the variables \code{GENE1} and \code{GENE2} can be relied
-on, as names change, so \code{ORF1} and {ORF2} should be preferred, and even
+on, as names change, so \code{ORF1} and \code{ORF2} should be preferred, and even
 these should be compared to current databases to see if they have been 
 supplanted.
 
