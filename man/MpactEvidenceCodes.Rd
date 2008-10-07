@@ -11,7 +11,6 @@
 \format{
  A character vector of the descriptions, with names given by the evidence 
  codes.
-
 }
 \details{
   There is a nesting in the evidence codes that is not directly reflected in 
@@ -20,11 +19,15 @@
  the second.
 }
 \source{
-FIXME: Li - where did  you ge these data
+ The data were downloaded from \url{ftp://ftpmips.gsf.de/yeast/PPI/}.
 }
 \references{
-FIXME: Some paper.
+Guldener U, Munsterkotter M, Oesterheld M, Pagel P, Ruepp A, Mewes HW, 
+Stumpflen V(2006). 
+MPact: the MIPS protein interaction resource on yeast. 
+Nucl. Acids Res. 2006 34: D436-D441 PMID: 16381906
 }
+\seealso{\code{\link{Mpact}}}
 \examples{
 data(MpactEvidenceCodes)
 MpactEvidenceCodes[1:3]

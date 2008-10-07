@@ -41,11 +41,12 @@ you are analyzing (if there is other evidence for the interaction it
 should be retained).
 }
 \source{
-FIXME: MPACT
+ The data were downloaded from \url{ftp://ftpmips.gsf.de/yeast/PPI/}.
 }
 \references{
-FIXME: The Nucleic Acids paper 
+Güldener U, Münsterkötter M, Oesterheld M, Pagel P, Ruepp A, Mewes HW, Stümpflen V(2006). MPact: the MIPS protein interaction resource on yeast. Nucl. Acids Res. 2006 34: D436-D441 PMID: 16381906
 }
+\seealso{ \code{\link{MpactEvidenceCodes}}}
 \examples{
 data(Mpact)
 Mpact[1:3,]
