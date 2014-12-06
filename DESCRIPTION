@@ -1,8 +1,8 @@
 Package: yeastGSData
-Title:  Yeast Gold Standard Data
-Version: 0.5.0
+Title: Yeast Gold Standard Data
+Version: 0.5.1
 Author: R. Gentleman
 Description: A collection of so-called gold (and other) standard data sets
-biocViews: ExperimentData, Yeast
+biocViews: ExperimentData, Saccharomyces_cerevisiae_Data
 Maintainer: R. Gentleman <rgentlem@fhcrc.org>
 License: Artistic-2.0
